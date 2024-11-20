@@ -75,49 +75,51 @@ if __name__ == "__main__":
     # ]
 
     #! Now return as a json object
-    # image_folder_path = "gzt_images_sub2"
+    image_folder_path = "gzt_images"
 
 
-    # queries = [
-    #     """
-    #     What are the ministers found in the image? There will always be at least one minister. Use this information to find the minister(s):
-    #     - The minister begins with a number (example 1. Minister of Defence)
-    #     - The minister is in the format "Minister of ..."
-    #     - The minister is in bold
-    #     - The minister is not found inside any table or columns
+    queries = [
+        """
+        What are the ministers found in the image? There will always be at least one minister. Use this information to find the minister(s):
+        - The minister begins with a number (example 1. Minister of Defence)
+        - The minister is in the format "Minister of ..."
+        - The minister is in bold
+        - The minister is not found inside any table or columns
 
-    #     Also retrieve lists of the 'subjects and functions', 'departments, statutory institutions and public corporations' and 'laws, acts and ordinances to be implemented' in this image for each minister identified. If there are none in either column leave the list empty for that column.
+        Also retrieve lists of the 'subjects and functions', 'departments, statutory institutions and public corporations' and 'laws, acts and ordinances to be implemented' in this image for each minister identified. If there are none in either column leave the list empty for that column.
 
-    #     Return the information as a JSON object, for example:
+        Return the information as a JSON object, for example:
 
-    #     {
-    #         "ministers": 
-    #         [
-    #             {
-    #                 "name": "Minister of Defence",
-    #                 "functions": [
-    #                     "Ensure national security",
-    #                     "Coordinate armed forces",
-    #                     "Develop defense policies"
-    #                 ],
-    #                 "departments": [
-    #                     "Office of the Chief of Defence Staff",
-    #                     "Sri Lanka Army",
-    #                     "Sri Lanka Navy"
-    #                 ],
-    #                 "laws": [
-    #                     "National Security Act No. 45 of 2003",
-    #                     "Military Ordinance No. 12 of 1945"
-    #                 ]
-    #             },
-    #         ]
-    #     }
+        {
+            "ministers": 
+            [
+                {
+                    "name": "Minister of Defence",
+                    "functions": [
+                        "Ensure national security",
+                        "Coordinate armed forces",
+                        "Develop defense policies"
+                    ],
+                    "departments": [
+                        "Office of the Chief of Defence Staff",
+                        "Sri Lanka Army",
+                        "Sri Lanka Navy"
+                    ],
+                    "laws": [
+                        "National Security Act No. 45 of 2003",
+                        "Military Ordinance No. 12 of 1945"
+                    ]
+                },
+            ]
+        }
 
-    #     """
-    # ]
+        Don't add any extra text such as ```json so that i can directly save the response to a json file.
+
+        """
+    ]
 
     #! Now return as a text
-    image_folder_path = "gzt_images_sub2"
+    # image_folder_path = "gzt_images_sub2"
 
 
     # queries = [
@@ -247,44 +249,53 @@ if __name__ == "__main__":
     #     """
     # ]
 
-    queries = [
-        """
-        What are the ministers found in the image? There will always be at least one minister. Use this information to find the minister(s):
-        - The minister begins with a number (example 1. Minister of Defence)
-        - The minister is in the format "Minister of ..."
-        - The minister is in bold
-        - The minister is not found inside any table or columns
+    # queries = [
+    #     """
+    #     What are the ministers found in the image? There will always be at least one minister. Use this information to find the minister(s):
+    #     - The minister begins with a number (example 1. Minister of Defence)
+    #     - The minister is in the format "Minister of ..."
+    #     - The minister is in bold
+    #     - The minister is not found inside any table or columns
 
-        Also retrieve lists of the 'subjects and functions', 'departments, statutory institutions and public corporations' and 'laws, acts and ordinances to be implemented' in this image for each minister identified. If there are none in either column leave the list empty for that column.
+    #     Also retrieve lists of the 'subjects and functions', 'departments, statutory institutions and public corporations' and 'laws, acts and ordinances to be implemented' in this image for each minister identified. If there are none in either column leave the list empty for that column.
         
-        STRICT CONDITION: Copy each entry exactly as it appears in the column including any numbers or bullet points that may or may appear before it. If a number or bullet point does not appear before an entry do not add one yourself and attempt to enumerate the list by adding additional numbers or bullet points.
+    #     STRICT CONDITION: Copy each entry exactly as it appears in the column including any numbers or bullet points that may or may appear before it. If a number or bullet point does not appear before an entry do not add one yourself and attempt to enumerate the list by adding additional numbers or bullet points.
 
-        Return the information as text in the following example format:
+    #     Return the information as text in the following example format:
 
-        # Minister of Defence
+    #     # Minister of Defence
 
-        Subjects and Functions:
-        4. Ensure national security
-        5. Coordinate armed forces
+    #     Subjects and Functions:
+    #     4. Ensure national security
+    #     5. Coordinate armed forces
 
-        Departments, Statutory Institutions and Public Corporations:
-        Office of the Chief of Defence Staff
-        8. Sri Lanka Army
+    #     Departments, Statutory Institutions and Public Corporations:
+    #     Office of the Chief of Defence Staff
+    #     8. Sri Lanka Army
 
-        Laws, Acts and Ordinances to be Implemented:
-        1. National Security Act No. 45 of 2003
-        2. Military Ordinance No. 12 of 1945
+    #     Laws, Acts and Ordinances to be Implemented:
+    #     1. National Security Act No. 45 of 2003
+    #     2. Military Ordinance No. 12 of 1945
 
-        """
-    ]
+    #     """
+    # ]
 
-    # Process all images with the specified queries
-    results = process_all_images(image_folder_path, queries)
+    # # Process all images with the specified queries
+    # results = process_all_images(image_folder_path, queries)
 
-    # Output the results
-    for image, responses in results.items():
-        print(f"Results for {image}:")
-        for query, response in responses.items():
-            # print(f"Query: {query}")
-            print(f"Response:\n {response}")
-            print("\n" + "="*50 + "\n")
+    # # Output the results
+    # for image, responses in results.items():
+    #     print(f"Results for {image}:")
+    #     for query, response in responses.items():
+    #         # print(f"Query: {query}")
+    #         print(f"Response:\n {response}")
+    #         print("\n" + "="*50 + "\n")
+
+    with open('responses.txt', 'a') as file:
+        # Process all images with the specified queries
+        results = process_all_images(image_folder_path, queries)
+
+        # Output the results to the file
+        for image, responses in results.items():
+            for query, response in responses.items():
+                file.write(f"{response}\n\n")  # Write the response followed by a new line
