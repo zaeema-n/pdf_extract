@@ -33,7 +33,7 @@
                 "Coast Guard Department of Sri Lanka",
                 "National Defence Fund",
                 "Ranaviru Seva Authority",
-                "Api Wewun Api Fund",
+                "Api Wewnwen Api Fund",
                 "Department of Meteorology",
                 "National Disaster Management Council",
                 "Disaster Management Centre",
@@ -63,7 +63,7 @@
                 "Private Security Agencies Act No. 45 of 1998",
                 "Department of Coast Guard Act No. 41 of 2009",
                 "Ranaviru Seva Authority Act No. 54 of 1999",
-                "Api Wewun Api Fund Act No. 6 of 2008"
+                "Api Wewnwen Api Fund Act No. 6 of 2008"
             ]
         }
     ]
@@ -89,7 +89,8 @@
                 "Landslide disaster management and related research and development"
             ],
             "departments": [
-                "All relevant departments related to defence"
+                "Sri Lanka Navy",
+                "Coast Guard Service"
             ],
             "laws": [
                 "National Hydrographic Act No. 7 of 2024",
@@ -127,7 +128,7 @@
         {
             "name": "Minister of Finance, Economic Development, Policy Formulation, Planning and Tourism",
             "functions": [
-                "Formulation, implementation, monitoring and evaluation of policies, strategies, programmes and projects, in relation to the subjects of Finance, Economic Development, Policy Formulation, Planning and Tourism and those subjects that come under the purview of Departments, Statutory Institutions and Public Corporations listed in Column I based on the national policies implemented by the government",
+                "Formulation, implementation, monitoring and evaluation of policies, strategies, programmes and projects, in relation to the subjects of Finance, Economic Development, Policy Formulation, Planning and Tourism",
                 "Provision of public services under the purview of the Ministry in an efficient and people friendly manner",
                 "Reforming all systems and procedures using modern management techniques and technology, thus ensuring that the functions of the Ministry are fulfilled while eliminating corruption and waste",
                 "Formulation of national economic and financial policies and strategies",
@@ -159,7 +160,6 @@
                 "State Resources Management Corporation",
                 "National Lotteries Board",
                 "Development Lotteries Board",
-                "Department of Valuation",
                 "Department of Import and Export Control",
                 "Central Bank of Sri Lanka"
             ],
@@ -175,7 +175,7 @@
                 "Finance Leasing Act No. 56 of 2000",
                 "Financial Transactions Reporting Act No. 6 of 2006",
                 "Public Financial Management Act No. 44 of 2024",
-                "Regulation of Insurance Industry Act No. 43 of 2001",
+                "Regulation of Insurance Industry Act No. 43 of 2008",
                 "Lady Lochore Fund Act No. 38 of 1951",
                 "Local Treasury Bills Ordinance No. 8 of 1923",
                 "Nation Building Tax Act No. 9 of 2009",
@@ -198,12 +198,12 @@
                 "Execution of appropriate measures to ensure debt sustainability",
                 "Maintaining transparency and accountability in public financial management",
                 "Facilitation, coordination and monitoring of the implementation of cross-sectoral national policy priorities",
-                "Function as the Focal Point for facilitation and coordination of international and regional trade integration",
+                "Function as the Focal Point for facilitation and coordination of international and regional trade integration including bilateral and multilateral trade agreements and resolution of disputes arising from these agreements",
                 "Preparation of the annual budget and management of financial resources",
                 "Ensuring the execution of the national budget and enforcing budgetary and financial controls",
                 "Ensuring efficiency, effectiveness and accountability in tax administration through policy and technological transformation",
                 "Coordination and facilitation of public-private partnerships for sustainable economic development",
-                "Prepare a time bound action plan to enhance active engagement of youth in the economic process"
+                "Prepare of a time bound action plan to enhance active engagement of youth in the economic process"
             ],
             "departments": [
                 "All State Banks, Financial Institutions, Insurance Companies and their subsidiaries and related institutions",
@@ -226,7 +226,7 @@
                 "Public Service Mutual Provident Fund",
                 "Strike, Riot, Civil Commotion and Terrorism Fund",
                 "National Insurance Trust Fund",
-                "Employees� Trust Fund",
+                "Employees’ Trust Fund",
                 "Lady Lochore Fund"
             ],
             "laws": [
@@ -243,10 +243,10 @@
                 "Inland Revenue Act No. 24 of 2017",
                 "Central Bank of Sri Lanka Act No. 16 of 2023",
                 "National Savings Bank Act No. 30 of 1971",
-                "People�s Bank Act No. 29 of 1961",
+                "People’s Bank Act No. 29 of 1961",
                 "Bank of Ceylon Ordinance No. 53 of 1938",
                 "Banking Act No. 30 of 1988",
-                "Housing Development Finance Corporation Act No. 07 of 1997",
+                "Housing Development Finance Corporation Act No. 97 of 1997",
                 "Recovery of loans by Banks (Special Provisions) Act No. 4 of 1990",
                 "Securities and Exchange Commission of Sri Lanka Act No. 19 of 2021",
                 "Regional Development Banks Act No. 41 of 2008"
@@ -329,10 +329,10 @@
                 "Formulation of policies, strategies, programmes and projects to enhance regional trade and investment cooperation",
                 "Promotion of economic potential in Sri Lanka and thereby promote foreign direct investment and private sector investment",
                 "Promotion, regulation and monitoring of economic development zones",
-                "Finalizing the liquidation and amalgamation work of Institutions listed in Column II from item No. 54 to 57",
+                "Finalizing the liquidation and amalgamation work of Institutions listed in Column II",
                 "Development of the tourism industry and promotion of high standards in line with the national policy while promoting Sri Lanka's image",
                 "Registration and regulation of travel agencies and those involved in the tourism industry",
-                "Popularizing Sri Lanka as a unique tourist Island among domestic and foreign tourists highlighting Sri Lanka's biodiversity, historic heritage, environment, climate diversity, oceanic resources etc"
+                "Popularizing Sri Lanka as a unique tourist Island among domestic and foreign tourists highlighting Sri Lanka's biodiversity, historic heritage, environment, climate diversity, oceanic resources"
             ],
             "departments": [],
             "laws": [
@@ -359,7 +359,7 @@
                 "Promotion of holiday resorts, internationally recognized centres related to conferences, exhibition and entertainment facilities, hotel facilities, air and sea travel for tourists",
                 "Provision of required facilities to encourage those engaged in the tourism trade and related entrepreneurs",
                 "Ensuring safety of tourists",
-                "Preparation of time bound action plans for sustainable usage of natural and cultural resources, developing human resources for the tourist industry, development and standardizing new tourist services, strategic destination promotion",
+                "Preparation of time bound action plans for sustainable usage of natural and cultural resources, developing human resources for the tourist industry, development and standardizing new tourist services, strategic destination promotion etc",
                 "Facilitating to enhance medical tourism by providing a whole range of medical care and treatments including Ayurvedic therapy",
                 "Promotion of sports-tourism industry",
                 "Integration of tourism industry with national and international markets for the visual arts",
@@ -376,16 +376,16 @@
 {
     "ministers": [
         {
-            "name": "**Minister of Energy**",
+            "name": "Minister of Energy",
             "functions": [
-                "Formulation, implementation, monitoring and evaluation of policies, strategies, programmes and projects, in relation to the subject of Energy, and those subjects that come under the purview of Departments, Statutory Institutions and Public Corporations listed in Column II based on the national policies implemented by the government",
-                "Provision of public services under the purview of the Ministry in an efficient and people friendly manner",
-                "Reforming all systems and procedures using modern management techniques and technology, thus ensuring that the functions of the Ministry are fulfilled while eliminating corruption and waste",
-                "Exploration, planning, development and supervision of activities relating to generation of renewable energy, electricity and other energies from sources such as solar, water, thermal, coal, waste and wind",
-                "Meeting the electricity needs of Sri Lanka and safeguarding energy security",
-                "Management of demand to ensure energy efficiency",
-                "Implementation of a power generation plan based on long-term requirements",
-                "Making the power transmission and distribution processes efficient"
+                "Formulation, implementation, monitoring and evaluation of policies, strategies, programmes and projects, in relation to the subject of Energy, and those subjects that come under the purview of Departments, Statutory Institutions and Public Corporations listed in Column II based on the national policies implemented by the government.",
+                "Provision of public services under the purview of the Ministry in an efficient and people friendly manner.",
+                "Reforming all systems and procedures using modern management techniques and technology, thus ensuring that the functions of the Ministry are fulfilled while eliminating corruption and waste.",
+                "Exploration, planning, development and supervision of activities relating to generation of renewable energy, electricity and other energies from sources such as solar, water, thermal, coal, waste and wind.",
+                "Meeting the electricity needs of Sri Lanka and safeguarding energy security.",
+                "Management of demand to ensure energy efficiency.",
+                "Implementation of a power generation plan based on long-term requirements.",
+                "Making the power transmission and distribution processes efficient."
             ],
             "departments": [
                 "Ceylon Electricity Board and its subsidiary Companies",
@@ -426,7 +426,7 @@
                 "Increasing energy generation using industrial waste.",
                 "Establishing micro-grid networks as energy units based on the cooperative principles.",
                 "Establishing strategic partnerships and investment opportunities in the energy sector.",
-                "Encouraging re-investment in small-scale hydro power generation, especially by renewing existing agreements.",
+                "Encouraging re-investment in small-scale hydro power generation, specially by renewing existing agreements.",
                 "Introduction of a fairer and transparent method for updating the electricity bill and application of price formula for petroleum and gas.",
                 "Implementation of a power generation plan based on long term requirements."
             ],
@@ -439,17 +439,17 @@
 {
     "ministers": [
         {
-            "name": "**Minister of Energy**",
+            "name": "Minister of Energy",
             "functions": [
                 "Taking necessary steps to reduce the losses at the institutional management level and technical damages that occur to the electricity generation and distribution system",
                 "Facilitating and encouraging to use electric vehicles",
-                "Taking measures to make Sri Lanka an Energy Trading Hub",
+                "Taking measures to make Sri Lanka as an Energy Trading Hub",
                 "Controlling greenhouse gas emissions",
                 "Rural electrification",
                 "Coordination and implementation of import, refining, storage, distribution and sale of petroleum-based products and natural gas",
                 "Matters relating to petroleum production and refining",
                 "Exploration of petroleum and natural gases and related activities",
-                "Matters relating to production of gas and by-products from petroleum production sources, maintenance of stocks, production and distribution",
+                "Matters relating to production of gas and by-products from petroleum production sources, maintenance of stocks, production, and distribution",
                 "Development of infrastructure facilities in relation to the supply and distribution of fuel",
                 "Formulation of an appropriate energy policy for the control, regulation and utilization of energy resources",
                 "Improving the capacity of oil refining and encouraging associate industry on petroleum by-products"
@@ -466,8 +466,8 @@
             "name": "**Minister of Energy**",
             "functions": [
                 "Improving the reliability, continuity and efficiency in the supply of fuel.",
-                "Matters relating to all other subjects assigned to Institutions listed in Column II",
-                "Supervision of the Institutions listed in Column II"
+                "Matters relating to all other subjects assigned to Institutions listed in Column II.",
+                "Supervision of the Institutions listed in Column II."
             ],
             "departments": [],
             "laws": []
@@ -476,7 +476,7 @@
             "name": "**Minister of Agriculture, Lands, Livestock, Irrigation, Fisheries and Aquatic Resources**",
             "functions": [
                 "Formulation, implementation, monitoring and evaluation of policies, strategies, programmes and projects, in relation to the subject of Agriculture, Lands, Livestock, Irrigation, Fisheries and Aquatic Resources, and those subjects that come under the purview of Departments, Statutory Institutions and Public Corporations listed in Column II based on the national policies implemented by the government.",
-                "Provision of public services under the purview of the Ministry in an efficient and people friendly manner",
+                "Provision of public services under the purview of the Ministry in an efficient and people friendly manner.",
                 "Reforming all systems and procedures using modern management techniques and technology, thus ensuring that the functions of the Ministry are fulfilled while eliminating corruption and waste."
             ],
             "departments": [
@@ -525,11 +525,11 @@
                 "Formulation of strategies to guarantee to the consumer community the quality of local agricultural products",
                 "Directing traditional farmers, youth and students towards agricultural education opportunities with modern technology",
                 "Encouraging the development of young agricultural entrepreneurs",
-                "Regulating of chemical pesticides and other chemical compounds with specific standards"
+                "Regulating chemical pesticides and other chemical compounds with specific standards"
             ],
             "departments": [
                 "National Livestock Development Board and affiliated companies",
-                "Milco (Pvt.) Ltd",
+                "Milco (Pvt) Ltd",
                 "Mahaweli Livestock Enterprise Limited",
                 "Department of Land Commissioner General",
                 "Department of Land Use Policy Planning",
@@ -578,7 +578,7 @@
         {
             "name": "**Minister of Agriculture, Lands, Livestock, Irrigation, Fisheries and Aquatic Resources**",
             "functions": [
-                "Expansion of farmers� pension schemes and crop insurance schemes for those engaged in agricultural activities",
+                "Expansion of farmers’ pension schemes and crop insurance schemes for those engaged in agricultural activities",
                 "Provision of a higher value to farmers production by strengthening supply chains among direct producers, processing firms, wholesalers and export companies",
                 "Minimizing natural disasters by communicating information related to climatic changes and daily weather reports to farmers",
                 "Implementing methodologies to provide quality seeds and plants to farmers",
@@ -592,7 +592,7 @@
                 "Ceylon Fisheries Corporation",
                 "Ceylon Fishery Harbours Corporation",
                 "Cey-Nor Foundation Ltd",
-                "Northsea Ltd"
+                "Northea Ltd"
             ],
             "laws": [
                 "State Industrial Corporations Act No. 49 of 1957",
@@ -633,23 +633,26 @@
 }
 
 {
-    "ministers": 
-    [
+    "ministers": [
         {
-            "name": "Minister of Agriculture, Lands, Livestock, Irrigation, Fisheries and Aquatic Resources",
+            "name": "**Minister of Agriculture, Lands, Livestock, Irrigation, Fisheries and Aquatic Resources**",
             "functions": [
-                "Implementation of necessary steps to expand livestock related research by using modern technology leading to qualitative and quantitative increase in production",
-                "Popularization of scientific breeding methods for the improvement of animal population in the livestock sector and activities related to protection and quarantine of such animals against diseases",
-                "Encouraging the development of small and medium scale farms to suit different geographical regions",
-                "Promotion of livestock related products and encouragement for exportation",
-                "Providing required land and investment facilities to construct medium and large scale cattle farms",
-                "Expanding opportunities for local production and consumption by promoting small and medium scale producers",
-                "Administration and personnel management of the Sri Lanka Animal Production and Health Service",
-                "Cultivation of maize required for animal feed within the country",
-                "Administration and personnel management of Sri Lanka Agricultural Service",
-                "Administration and management of state lands"
+                "Implementation of necessary steps to expand livestock related research by using modern technology leading to qualitative and quantitative increase in production.",
+                "Popularization of scientific breeding methods for the improvement of animal population in the livestock sector and activities related to protection and quarantine of such animals against diseases.",
+                "Encouraging the development of small and medium scale farms to suit different geographical regions.",
+                "Promotion of livestock related products and encouragement for exportation.",
+                "Providing required land and investment facilities to construct medium and large scale cattle farms.",
+                "Expanding opportunities for local production and consumption by promoting small and medium scale producers.",
+                "Administration and personnel management of the Sri Lanka Animal Production and Health Service.",
+                "Cultivation of maize required for animal feed within the country.",
+                "Administration and personnel management of Sri Lanka Agricultural Service.",
+                "Administration and management of state lands."
             ],
-            "departments": [],
+            "departments": [
+                "Department of Agriculture",
+                "Department of Animal Production and Health",
+                "Sri Lanka Agricultural Service"
+            ],
             "laws": []
         }
     ]
@@ -658,12 +661,12 @@
 {
     "ministers": [
         {
-            "name": "**Minister of Agriculture, Lands, Livestock, Irrigation, Fisheries and Aquatic Resources**",
+            "name": "Minister of Agriculture, Lands, Livestock, Irrigation, Fisheries and Aquatic Resources",
             "functions": [
                 "Formulation of a land use policy",
                 "Advising on land use",
                 "Matters relating to land settlement and registration of land titles",
-                "Provision of land required for the country�s development without delay and in due manner",
+                "Provision of land required for the country’s development without delay and in due manner",
                 "Acquisition of lands required for government activities",
                 "Administration of lands vested in the Land Reform Commission and distribution of land in accordance with the law",
                 "Land surveying and mapping, provision of land information and related services",
@@ -707,7 +710,8 @@
 }
 
 {
-    "ministers": [
+    "ministers": 
+    [
         {
             "name": "**Minister of Agriculture, Lands, Livestock, Irrigation, Fisheries and Aquatic Resources**",
             "functions": [
@@ -731,7 +735,8 @@
 }
 
 {
-    "ministers": [
+    "ministers": 
+    [
         {
             "name": "Minister of Justice, Public Administration, Home Affairs, Provincial Councils, Local Government and Labour",
             "functions": [
@@ -741,11 +746,11 @@
                 "Making necessary reforms required to the legal system taking into consideration social requirements and global trends.",
                 "Re-documentation and consolidation of laws.",
                 "Matters relating to the administration of the courts of justice which have not been assigned to any other party by the Constitution.",
-                "Conducting all activities relating to overall administration, including prevention of law�s delays in the courts system, in a methodical and efficient manner, and introduce modern technology for such purpose."
+                "Conducting all activities relating to overall administration, including prevention of law’s delays in the courts system, in a methodical and efficient manner, and introduce modern technology for such purpose."
             ],
             "departments": [
-                "Attorney General�s Department",
-                "Legal Draftsman�s Department",
+                "Attorney General’s Department",
+                "Legal Draftsman’s Department",
                 "Department of Debt Conciliation Board",
                 "Department of Government Analyst",
                 "Office of the Registrar of the Supreme Court",
@@ -760,14 +765,14 @@
                 "Department of Prisons",
                 "Community Based Correction Department",
                 "Training Schools for Youthful Offenders",
-                "Rehabilitation Commissioner General�s Office",
+                "Rehabilitation Commissioner General’s Office",
                 "Department of Pensions",
                 "Sri Lanka Institute of Development Administration",
                 "Distance Learning Centre Ltd.",
                 "National Human Resources Development Council of Sri Lanka",
-                "Public Service Pensioners� Trust Fund",
+                "Public Service Pensioners’ Trust Fund",
                 "Local Government Service Pension Fund",
-                "Local Government Widows� and Orphans� Pension Fund"
+                "Local Government Widows’ and Orphans’ Pension Fund"
             ],
             "laws": [
                 "Superior Courts Complex Board of Act No. 50 of 1987",
@@ -775,7 +780,7 @@
                 "Council of Legal Education Law No. 6 of 1974",
                 "Debt Conciliation Ordinance No. 39 of 1941",
                 "Enforcement of Foreign Judgments Ordinance No. 15 of 1956",
-                "Government Analysis (Disposal of Articles) Act No. 69 of 1988",
+                "Government Analyst (Disposal of Articles) Act No. 69 of 1988",
                 "High Court of the Provinces (Special Provisions) Act No. 19 of 1990",
                 "Institute of Corporation Lawyers Law No. 33 of 1978",
                 "Judicature Act No. 2 of 1978",
@@ -798,7 +803,7 @@
 {
     "ministers": [
         {
-            "name": "Minister of Justice, Public Administration, Home Affairs, Provincial Councils, Local Government and Labour",
+            "name": "**Minister of Justice, Public Administration, Home Affairs, Provincial Councils, Local Government and Labour**",
             "functions": [
                 "Criminal prosecutions and civil proceedings on behalf of the government",
                 "Providing legal advice to the government and to all government departments",
@@ -811,10 +816,10 @@
                 "Conducting activities relating to the provision of assistance to and protection of victims of crime and witnesses",
                 "Taking steps to amend the Constitution to suit the current needs while ensuring that the sovereignty of the people and national security are safeguarded",
                 "Conducting activities relating to the drafting of a new Constitution",
-                "Formulation and implementation of policies, plans"
+                "Formulation and implementation of policies, plans and"
             ],
             "departments": [
-                "Local Government Widowers� and Orphans� Pension Fund",
+                "Local Government Widowers’ and Orphans’ Pension Fund",
                 "All District Secretariats and Divisional Secretariats",
                 "Department of Registrar General",
                 "Sri Lanka Institute of Local Government",
@@ -822,8 +827,9 @@
                 "Department of Labour",
                 "National Institute of Labour Studies",
                 "National Institute for Occupational Safety and Health",
-                "Office of the Commissioner of Workmen�s Compensation",
+                "Office of the Commissioner of Workmen’s Compensation",
                 "National Productivity Secretariat",
+                "Shrama Vasana Fund",
                 "Department of Manpower and Employment",
                 "Sri Lanka Foreign Employment Bureau",
                 "Foreign Employment Agency of Sri Lanka (Pvt) Ltd"
@@ -835,10 +841,11 @@
                 "Youthful Offenders (Training Schools) Ordinance No. 28 of 1939",
                 "Community Based Corrections Act No. 46 of 1999",
                 "Bureau of Rehabilitation Act, No. 2 of 2023",
-                "Widowers� and Orphans� Pension Act No. 24 of 1983",
-                "Widowers� and Orphans� Pension Ordinance, No. 1 of 1889",
-                "Widowers� and Orphans� Pension Scheme (Armed Forces) Act No. 60 of 1998",
-                "Public Service Pensioners� Trust Fund Act No. 40 of 1999",
+                "Widowers’ and Orphans’ Pension Act No. 24 of 1983",
+                "Widows’ and Orphans’ Pension Ordinance, No. 1 of 1889",
+                "Widowers’ and Orphans’ Pension Scheme (Armed Forces) Act No. 60 of 1998",
+                "Widows’ and Orphans’ Pension Scheme (Armed Forces) Act No. 18 of 1970",
+                "Public Service Pensioners’ Trust Fund Act No. 40 of 1999",
                 "Public Service Provident Fund Ordinance No. 18 of 1942",
                 "Pensions Minute",
                 "School Teachers Pension Act, No. 44 of 1953",
@@ -856,7 +863,7 @@
 {
     "ministers": [
         {
-            "name": "**Minister of Justice, Public Administration, Home Affairs, Provincial Councils, Local Government and Labour**",
+            "name": "Minister of Justice, Public Administration, Home Affairs, Provincial Councils, Local Government and Labour",
             "functions": [
                 "programmes in relation to prison reforms",
                 "Prison administration and reforms",
@@ -867,14 +874,22 @@
                 "Implementation of programmes for re-integration of persons involved in terrorist activities",
                 "Reviewing and simplification existing rules and regulations pertaining to the public service",
                 "Introducing an arbitration process for resolving public service disputes",
-                "Administration and personnel management relating to the following services : Sri Lanka Administrative Service, Sri Lanka Accountants� Service, Sri Lanka Planning Service, Sri Lanka Engineering Service, Sri Lanka Scientific Service, Sri Lanka Architectural Service, Sri Lanka Technological Service",
+                "Administration and personnel management relating to the following services: Sri Lanka Administrative Service, Sri Lanka Accountants’ Service, Sri Lanka Planning Service, Sri Lanka Engineering Service, Sri Lanka Scientific Service, Sri Lanka Architectural Service, Sri Lanka Technological Service",
                 "Administration of the Combined Services",
                 "Functions under the Establishments Code",
                 "Public service training",
                 "Implementation of the Pensions Minute",
                 "Matters relating to Parliament and Members of Parliament requiring action by the Government"
             ],
-            "departments": [],
+            "departments": [
+                "Sri Lanka Administrative Service",
+                "Sri Lanka Accountants’ Service",
+                "Sri Lanka Planning Service",
+                "Sri Lanka Engineering Service",
+                "Sri Lanka Scientific Service",
+                "Sri Lanka Architectural Service",
+                "Sri Lanka Technological Service"
+            ],
             "laws": [
                 "Compulsory Public Service Act No. 70 of 1961",
                 "Sri Lanka Institute of Development Administration Act No. 9 of 1982",
@@ -919,14 +934,12 @@
                 "Government functions related to Local Authorities",
                 "Granting of credit facilities to Local Authorities for development of public utilities",
                 "Training Members, officers and employees of Local Authorities",
-                "Formulation and implementation of policies for labour relations standards, employee administration, welfare and health in line with international standards",
-                "Maintaining cooperation with International Labour Organization and International Social Security Association"
+                "Formulation and implementation of policies for labour relations standards, employee administration, welfare and health in line with international standards"
             ],
             "departments": [
-                "Parliament Staff Department",
-                "District Secretary Offices",
-                "Provincial Council Offices",
-                "Local Government Authorities"
+                "Department of Justice",
+                "Department of Home Affairs",
+                "Provincial Councils and Local Government Authorities"
             ],
             "laws": [
                 "Revocation of Irrevocable Deeds of Gift on the Ground of Gross Ingratitude Act No. 05 of 2017",
@@ -944,7 +957,7 @@
                 "Provincial Councils (Payment Salaries and Allowances) Act No. 37 of 1988",
                 "Local loans and Development Fund Act No. 22 of 1916",
                 "Employees' Councils Act No. 32 of 1979",
-                "Employees� Provident Fund Act No. 15 of 1958",
+                "Employees’ Provident Fund Act No. 15 of 1958",
                 "Employment of Women, Young Persons, and Children Act No. 47 of 1956",
                 "Factories Ordinance No. 45 of 1942",
                 "Industrial Disputes Act No. 43 of 1950",
@@ -958,12 +971,12 @@
     "ministers": 
     [
         {
-            "name": "Minister of Justice, Public Administration, Home Affairs, Provincial Councils, Local Government and Labour",
+            "name": "**Minister of Justice, Public Administration, Home Affairs, Provincial Councils, Local Government and Labour**",
             "functions": [
-                "Administration and regulation of Employees� Provident Fund, Private Provident Fund and Private pension schemes",
+                "Administration and regulation of Employees’ Provident Fund, Private Provident Fund and Private pension schemes",
                 "Industrial relations and arbitration of industrial disputes",
                 "Matters relating to formulation of laws and regulations relevant to labour relations and their regulation",
-                "Registration of trade unions and introduction and implementation of positive measures for harnessing activities of all trade unions in the public and private sectors for the country�s development",
+                "Registration of trade unions and introduction and implementation of positive measures for harnessing activities of all trade unions in the public and private sectors for the country’s development",
                 "Formulating and implementing policies and programmes for enhancing national productivity",
                 "Implementation of national manpower and employment policies",
                 "Collaborating with relevant institutes to increase and promote foreign employment opportunities and improve the skills required for such employments",
@@ -972,7 +985,10 @@
                 "Implementing special projects to enable those who return to Sri Lanka after foreign employment to commence enterprises",
                 "Implementing programmes to ensure the protection and welfare of housemaids working in Middle East and other countries."
             ],
-            "departments": [],
+            "departments": [
+                "National Institute of Occupational Safety and Health",
+                "Sri Lanka Bureau of Foreign Employment"
+            ],
             "laws": [
                 "National Institute of Occupational Safety and Health Act No. 38 of 2009",
                 "Payment of Gratuity Act No. 12 of 1983",
@@ -1019,7 +1035,7 @@
             "name": "Minister of Education, Science and Technology",
             "functions": [
                 "Formulation, implementation, monitoring and evaluation of policies, strategies, programmes and projects, in relation to the subjects of Education, Science and Technology",
-                "Provision of public services under the purview of Departments, Statutory Institutions and Public Corporations",
+                "Provision of public services under the purview of the Ministry in an efficient and people friendly manner",
                 "Reforming all systems and procedures using modern management techniques",
                 "Formulation and implementation of sectoral policies relating to education development",
                 "Creation of a National Education System",
@@ -1032,7 +1048,7 @@
                 "Department of Educational Publications",
                 "National Library and Documentation Services Board",
                 "National Colleges of Education",
-                "Teachers� College",
+                "Teachers’ College",
                 "UNESCO National Commission of Sri Lanka",
                 "Sri Lanka Publication Development Board",
                 "State Printing Corporation",
@@ -1049,7 +1065,7 @@
                 "Department of Technical Education and Training",
                 "Tertiary and Vocational Education Commission",
                 "University Grants Commission",
-                "Buddhasravaka Bhikku University",
+                "Buddhashravaka Bhikku University",
                 "Buddhist and Pali University of Sri Lanka"
             ],
             "laws": [
@@ -1067,7 +1083,7 @@
                 "Assisted Schools and Training Colleges Act, No. 5 of 1960",
                 "National Education Commission Act No. 19 of 1991",
                 "National Institute of Education Act No. 28 of 1985",
-                "Pirivena Education Act No. 64 of 1979",
+                "Pirvena Education Act No. 64 of 1979",
                 "University of Vocational Technology Act No. 31 of 2008",
                 "Ocean University of Sri Lanka Act No. 31 of 2014",
                 "National Institute of Business Management Law No. 23 of 1976"
@@ -1081,19 +1097,23 @@
         {
             "name": "Minister of Education, Science and Technology",
             "functions": [
-                "Popularizing extracurricular activities in schools to prepare children as citizens",
+                "Popularizing extracurricular activities in schools to prepare children as citizens who can make a positive contribution to the national economy and fulfill social responsibilities actively",
                 "Provision of physical and human resources needed for National Schools",
                 "Regulation of international and private schools in conformity with the national education policy",
-                "Taking policy measures for proper maintenance of quality of education",
+                "Taking policy measures for proper maintenance of quality of education, student discipline and morals",
                 "Adoption of measures to ensure education opportunities for students with special needs",
                 "Taking necessary actions to promote national language and link language education",
-                "Promotion of Buddhist and Pali Studies and upliftment of Piriven education",
-                "Human resources management and administration of the Sri Lanka Education Administrative Service"
+                "Promotion of Buddhist and Pali Studies and upliftment of Piriven education to meet the objectives of religious education",
+                "Human resources management and administration of the Sri Lanka Education Administrative Service, Principal Service, Teachers Service and other educational services",
+                "Administration of School Development Boards",
+                "Promotion and Development of school libraries",
+                "Implementation and direction of programmes for the provision of school text books, uniforms, other student necessities and facilities",
+                "Development of all physical facilities including sanitary"
             ],
             "departments": [
                 "Sri Lanka Institute of Advanced Technological Education",
                 "National Institute of Fundamental Studies",
-                "Sri Lanka Inventors� Commission",
+                "Sri Lanka Inventors’ Commission",
                 "National Engineering Research And Development Centre",
                 "National Research Council of Sri Lanka",
                 "National Science Foundation",
@@ -1119,7 +1139,7 @@
                 "Tertiary and Vocational Education Act No. 20 of 1990",
                 "National Institute of Technical Education of Sri Lanka Act No. 59 of 1998",
                 "Universities Act No. 16 of 1978",
-                "Buddhasravaka Bhikku University Act No. 26 of 1996",
+                "Buddharakkitha Bhikku University Act No. 26 of 1996",
                 "Buddhist And Pali University of Sri Lanka Act No. 74 of 1981",
                 "Sri Lanka Institute of Advanced Technological Education Act No. 29 of 1995",
                 "National Innovation Agency Act No. 22 of 2019",
@@ -1143,12 +1163,12 @@
         {
             "name": "Minister of Education, Science and Technology",
             "functions": [
-                "Facilities, student-friendly classrooms, teachers� residential and restroom facilities in all schools",
+                "Facilities, student-friendly classrooms, teachers’ residential and restroom facilities in all schools",
                 "Development and promotion of the use of modern technological facilities for learning and teaching",
                 "Formulation and implementation of strategies to enhance the trend towards vocational education",
                 "Creation of opportunities to acquire vocational education regardless of educational qualifications",
-                "Modernization of industrial and technical education for the local and foreign employment market",
-                "Formulation of policies and provision of facilities to enable students who do not qualify for university education to broaden their opportunities for vocational education",
+                "Modernization of industrial and technical education for the purpose of creating a workforce suitable for the local and foreign employment market",
+                "Formulation of policies and provision of facilities to enable students who do not qualify to obtain university education after leaving school to broaden their opportunities for vocational education",
                 "Promotion of apprenticeship training opportunities",
                 "Transforming existing vocational training institutions into Technology Degree Awarding institutions by modernizing curricula for skills development",
                 "Increasing the existing National Vocational Qualification level from current 7 to 10 and amending the Sri Lanka Qualification Framework accordingly",
@@ -1163,7 +1183,7 @@
 {
     "ministers": [
         {
-            "name": "**Minister of Education, Science and Technology**",
+            "name": "Minister of Education, Science and Technology",
             "functions": [
                 "English and other languages into vocational education courses.",
                 "Expanding vocational training opportunities through the use of mobile technical education services.",
@@ -1188,7 +1208,7 @@
 {
     "ministers": [
         {
-            "name": "**Minister of Education, Science and Technology**",
+            "name": "Minister of Education, Science and Technology",
             "functions": [
                 "Implementation of scholarship programmes to enable qualified students in Sri Lanka to enter the international universities",
                 "Regulation and accreditation of private and international universities and institutions of higher education operating in Sri Lanka",
@@ -1199,7 +1219,7 @@
                 "Taking necessary measures for the provision of information and communication technology facilities for all by adoption of modern technologies",
                 "Facilitating and supervising information technology initiatives for inter government agencies for promoting productivity and efficiency in the delivery of services",
                 "Implementation of programmes for promotion of information and communication technology literacy",
-                "Development of strategies to encourage and increase the use of information and"
+                "Development of strategies to encourage and increase the use of information"
             ],
             "departments": [],
             "laws": []
@@ -1208,8 +1228,7 @@
 }
 
 {
-    "ministers": 
-    [
+    "ministers": [
         {
             "name": "Minister of Education, Science and Technology",
             "functions": [
@@ -1232,20 +1251,20 @@
 {
     "ministers": [
         {
-            "name": "Minister of Women, Child and Youth Affairs and Sports",
+            "name": "**Minister of Women, Child and Youth Affairs and Sports**",
             "functions": [
                 "Formulation, implementation, monitoring and evaluation of policies, strategies, programmes and projects, in relation to the subjects of Women, Child and Youth Affairs and Sports and those subjects that come under the purview of Departments, Statutory Institutions and Public Corporations listed in Column II based on the national policies implemented by the government.",
                 "Provision of public services under the purview of the Ministry in an efficient and people friendly manner",
                 "Reforming all systems and procedures using modern management techniques and technology, thus ensuring that the functions of the Ministry are fulfilled while eliminating corruption and waste.",
-                "Implementation of Women�s Charter",
-                "Formulation and implementation of strategies to enhance women�s participation and representation in decision making in state affairs and the political field",
+                "Implementation of Women's Charter",
+                "Formulation and implementation of strategies to enhance women’s participation and representation in decision making in state affairs and the political field",
                 "Adoption of necessary measures for the empowerment of women affected by conflicts and poverty",
                 "Strengthening and implementation of laws and policies for the prevention of women and child abuse",
                 "Amending existing laws and formulating and implementing new laws and policies to prevent discrimination against women on the basis of sex and gender"
             ],
             "departments": [
                 "National Committee on Women",
-                "Sri Lanka Women�s Bureau",
+                "Sri Lanka Women’s Bureau",
                 "Department of Probation and Childcare Services",
                 "National Child Protection Authority",
                 "National Secretariat for Early Childhood Development",
@@ -1282,16 +1301,16 @@
 {
     "ministers": [
         {
-            "name": "Minister of Women, Child and Youth Affairs and Sports",
+            "name": "**Minister of Women, Child and Youth Affairs and Sports**",
             "functions": [
                 "Formulation and implementation of policies and programmes for the empowerment of women headed households",
                 "Accomplishment of Sustainable Development Goals in relation to women and child affairs",
-                "Introducing gradual legal and policy reforms to bring minimum 50% of women�s representation in political structures",
+                "Introducing gradual legal and policy reforms to bring minimum 50% of women’s representation in political structures",
                 "Combatting period poverty by providing necessary tax reliefs, financial and other support",
                 "Reducing the burden of unpaid care work on women",
                 "Formulation of policies and programmes on early childhood protection and development aimed at bringing up physically and mentally healthy children",
                 "Development and implementation of programmes and projects in line with international standards to protect the rights of vulnerable children",
-                "Implementation of the Children�s Charter",
+                "Implementation of the Children’s Charter",
                 "Regulating Child Care Centres",
                 "Implementation of the Sevana Sarana Foster-Parent Scheme",
                 "Providing financial assistance for developing the skills of exceptionally talented children",
@@ -1305,8 +1324,7 @@
 }
 
 {
-    "ministers": 
-    [
+    "ministers": [
         {
             "name": "Minister of Women, Child and Youth Affairs and Sports",
             "functions": [
@@ -1329,7 +1347,8 @@
 }
 
 {
-    "ministers": [
+    "ministers": 
+    [
         {
             "name": "**Minister of Women, Child and Youth Affairs and Sports**",
             "functions": [
@@ -1341,8 +1360,8 @@
                 "Promotion of sports associations and sports competitions",
                 "Developing specialized programmes at the school and district levels to provide economic support, nutrition, and training for athletes with exceptional skills",
                 "Establishing a network of modern sports schools across all provinces centred around a national sports training school",
-                "All other subjects that come under the purview of institutions listed in Column II",
-                "Supervision of all institutions listed in Column II"
+                "All other subjects that come under the purview of Institutions listed in Column II",
+                "Supervision of all Institutions listed in Column II"
             ],
             "departments": [],
             "laws": []
@@ -1353,7 +1372,7 @@
 {
     "ministers": [
         {
-            "name": "**Minister of Trade, Commerce, Food Security, Co-operative Development, Industry and Entrepreneurship Development**",
+            "name": "Minister of Trade, Commerce, Food Security, Co-operative Development, Industry and Entrepreneurship Development",
             "functions": [
                 "Formulation, implementation, monitoring and evaluation of policies, strategies, programmes and projects, in relation to the subjects of Trade, Commerce, Food Security, Co-operative Development, Industry and Entrepreneurship Development and those subjects that come under the purview of Departments, Statutory Institutions and Public Corporations listed in Column II based on the national policies implemented by the government.",
                 "Provision of public services under the purview of the Ministry in an efficient and people friendly manner.",
@@ -1381,7 +1400,7 @@
                 "Lanka Leyland Ltd.",
                 "National Paper Corporation Ltd.",
                 "Lanka Cement Ltd.",
-                "Kahatagaha Graphite Lanka Ltd.",
+                "Kahatagaha Graphite Lanka Ltd",
                 "Ceylon Ceramics Corporation (Brick and Tiles Division)",
                 "National Enterprise Development Authority",
                 "Lanka Mineral Sands Company",
@@ -1399,7 +1418,7 @@
                 "Measurement Units, Standards and Services Act No. 35 of 1995",
                 "Intellectual Property Act No. 36 of 2003",
                 "Consumer Affairs Authority Act No. 9 of 2003",
-                "Co-operative Employee�s Commission Act No. 12 of 1972",
+                "Co-operative Employee’s Commission Act No. 12 of 1972",
                 "Co-operative Societies Act No. 5 of 1972",
                 "National Institute of Co-operative Development (Incorporation) Act No. 1 of 2001",
                 "Anti-Dumping and Countervailing Duties Act No. 2 of 2018",
@@ -1425,7 +1444,7 @@
                 "Making the process of patent granting efficient",
                 "Formulation and implementation of national pricing policies with regard to consumer goods",
                 "Taking measures to ensure market competitiveness thereby minimizing market imperfection and encouraging self-regulation",
-                "Taking measures to protect the consumers by supplying quality products continuously at minimum competitive prices and preventing speculative behavior of the suppliers",
+                "Taking measures to protect consumers by supplying quality products continuously at minimum competitive prices and preventing speculative behavior of the suppliers",
                 "Expanding cooperative sales outlet network and people-centric goods and services distribution centres",
                 "Formulating and implementing mechanisms to strengthen existing industries and broadening investment opportunities to create access to new industrial fields",
                 "Implementing a programme to resuscitate businesses and failed industries",
@@ -1455,7 +1474,7 @@
                 "Textile Quota Board Act, No. 33 of 1996",
                 "National Gem and Jewellery Authority Act No. 50 of 1993",
                 "Science and Technology Development Act No. 11 of 1994",
-                "Other legislations pertaining to the subjects specified in Column I and II that have not been specifically brought under the purview of any other Minister"
+                "All other legislations pertaining to the subjects specified in Column I and II that have not been specifically brought under the purview of any other Minister"
             ]
         }
     ]
@@ -1483,7 +1502,8 @@
 }
 
 {
-    "ministers": [
+    "ministers": 
+    [
         {
             "name": "Minister of Trade, Commerce, Food Security, Co-operative Development, Industry and Entrepreneurship Development",
             "functions": [
@@ -1497,7 +1517,7 @@
                 "Promotion and regulation of the gem and jewellery industry and trade",
                 "Modernizing gem industries through a creative approach to compete with the private sector",
                 "Restricting the export of gems without value addition, and instead promote the export of value added gem based products",
-                "Providing training opportunities for obtaining latest technical know-how for those involved in the gem related industry and those interested in the industry"
+                "Providing training opportunities for obtaining latest technical know-how for those involved in the gem industry and those interested in the industry."
             ],
             "departments": [],
             "laws": []
@@ -1548,7 +1568,7 @@
                 "Nursing Homes (Regulations) Act No. 16 of 1949",
                 "Poisons, Opium and Dangerous Drugs Ordinance No. 17 of 1929",
                 "Private Medical Institutions (Registration) Act No 21 of 2006",
-                "Sri Lanka Nurses' Council Act, No. 19 of 1988",
+                "Sri Lanka Nurses’ Council Act, No. 19 of 1988",
                 "Transplantation of Human Tissues Act, No. 48 of 1987",
                 "Food Act, No. 26 of 1980"
             ]
@@ -1557,7 +1577,8 @@
 }
 
 {
-    "ministers": [
+    "ministers": 
+    [
         {
             "name": "**Minister of Health**",
             "functions": [
@@ -1574,17 +1595,24 @@
                 "Expansion of training opportunities required for the enhancement of quality and skills."
             ],
             "departments": [
+                "Ashraff Memorial Hospital",
+                "National Authority on Tobacco and Alcohol",
+                "1990 Suwaseriya Foundation",
+                "National Health Development Fund",
+                "State Pharmaceutical Corporation",
+                "State Pharmaceutical Manufacturing Corporation",
+                "National Medicines Regulatory Authority",
                 "Department of Ayurveda",
                 "Sri Lanka Ayurvedic Drugs Corporation",
                 "Ayurvedic Medical Council",
-                "Ayurvedic College and Hospital Board",
+                "Ayurveda College and Hospital Board",
                 "Ayurveda Teaching and Research Hospitals",
                 "Homeopathy Hospital, Welisara",
                 "Homeopathy Medical Council"
             ],
             "laws": [
-                "Sri Jayewardenepura General Hospital Board Act No. 54 of 1983",
-                "Vijaya Kumratunga Memorial Hospital Board Act No. 38 of 1999",
+                "Sri Jayawardenepura General Hospital Board Act No. 54 of 1983",
+                "Vijaya Kumaratunga Memorial Hospital Board Act No. 38 of 1999",
                 "National Authority on Tobacco and Alcohol Act No. 27 of 2006",
                 "1990 Suwaseriya Foundation Act No. 18 of 2018",
                 "National Drugs Regulatory Authority Act No. 5 of 2015",
@@ -1625,12 +1653,13 @@
 }
 
 {
-    "ministers": [
+    "ministers": 
+    [
         {
             "name": "Minister of Health",
             "functions": [
                 "Development and regulation of Ayurvedic, Siddha, Unani and Homeopathy medical procedures",
-                "Production of Ayurvedic, Siddha, Unani and Homeopathy medicinal Drugs",
+                "Production of Ayurvedic, Siddha, Unani and Homeopathy medicinal drugs",
                 "Import, sale and distribution of raw material and manufactured drugs required for Ayurvedic, Siddha, Unani and Homeopathy systems of medicine",
                 "Establishment and management of hospitals, research and training institutes and pharmaceutical outlets for the improvement of indigenous systems of medicines such as, Ayurvedic, Siddha, Unani",
                 "Regulation of export of medicinal plants and manufactured Ayurvedic, Siddha and Unani drugs",
@@ -1649,7 +1678,7 @@
 {
     "ministers": [
         {
-            "name": "Minister of Health",
+            "name": "**Minister of Health**",
             "functions": [
                 "ayurvedic treatment methods for administering treatments to tourists",
                 "Encouraging research on drugs and treatment methods in relation to indigenous medicine",
@@ -1661,9 +1690,9 @@
             "laws": []
         },
         {
-            "name": "Minister of Buddhasasana, Religious and Cultural Affairs, National Integration, Social Security, and Mass Media",
+            "name": "**Minister of Buddhakshasana, Religious and Cultural Affairs, National Integration, Social Security, and Mass Media**",
             "functions": [
-                "Formulation, implementation, monitoring and evaluation of policies, strategies, programmes and projects, in relation to the subjects of Buddhasasana, Religious and Cultural Affairs, National Integration, Social Security, and Mass Media, and those subjects that come under the purview of Departments, Statutory Institutions and Public Corporations listed in Column II based on the national policies implemented by the government.",
+                "Formulation, implementation, monitoring and evaluation of policies, strategies, programmes and projects, in relation to the subjects of Buddhakshasana, Religious and Cultural Affairs, National Integration, Social Security, and Mass Media, and those subjects that come under the purview of Departments, Statutory Institutions and Public Corporations listed in Column II based on the national policies implemented by the government.",
                 "Provision of public services under the purview of the Ministry in an efficient and people friendly manner"
             ],
             "departments": [
@@ -1703,7 +1732,7 @@
             "name": "Minister of Buddhassana, Religious and Cultural Affairs, National Integration, Social Security, and Mass Media",
             "functions": [
                 "Reforming all systems and procedures using modern management techniques and technology, thus ensuring that the functions of the Ministry are fulfilled while eliminating corruption and waste.",
-                "Assuring the right to practice all religions including Buddhism.",
+                "Ensuring the right to practice all religions including Buddhism.",
                 "Protecting all rights granted to all religions and taking action against religious extremism.",
                 "Provision of facilities to promote Dhamma School education.",
                 "Conservation and development of sacred areas.",
@@ -1748,8 +1777,8 @@
             "laws": [
                 "Arts Council of Ceylon Act No. 18 of 1952",
                 "Antiquities Ordinance No. 9 of 1940",
-                "Tower Hall Theatre Foundation Act No. 01 of 1978",
-                "Sigiri Heritage Foundation Act No. 62 of 1998",
+                "Tower Hall Theatre Foundation Act No. 1 of 1978",
+                "Sigiriya Heritage Foundation Act No. 62 of 1998",
                 "Galle Heritage Foundation Act No. 7 of 1994",
                 "Amaradewa Aesthetic and Research Center Act No. 27 of 2018",
                 "Official Languages Act No. 33 of 1956",
@@ -1758,7 +1787,7 @@
                 "Office of Missing Persons (Establishment, Administration and Discharge of Functions) Act No.14 of 2016",
                 "Office for Reparations Act No. 34 of 2018",
                 "Office for National Unity and Reconciliation Act No. 1 of 2024",
-                "Divineguma Act No. 01 of 2013",
+                "Divineguma Act No. 1 of 2013",
                 "National Institute of Social Development Act No. 41 of 1992",
                 "Social Security Board Act No. 17 of 1996",
                 "Protection of the Rights of Persons with Disabilities Act No. 28 of 1996",
@@ -1772,7 +1801,7 @@
 {
     "ministers": [
         {
-            "name": "Minister of Buddhassana, Religious and Cultural Affairs, National Integration, Social Security, and Mass Media",
+            "name": "Minister of Buddhassan, Religious and Cultural Affairs, National Integration, Social Security, and Mass Media",
             "functions": [
                 "Adoption of necessary measures for the advancement of all aspects of the national culture of Sri Lanka",
                 "Maintenance of cultural relations with foreign countries",
@@ -1786,7 +1815,7 @@
                 "Conducting matters relating to reparation of persons affected by conflicts and crisis"
             ],
             "departments": [
-                "Sri Lanka Rupavihini Corporation",
+                "Sri Lanka Rupavahini Corporation",
                 "Associated Newspapers of Ceylon Ltd.",
                 "Lanka Puwath Ltd",
                 "Selacine Media Solutions (PVT) LTD",
@@ -1807,7 +1836,7 @@
                 "Sri Lanka Press Council Act No. 5 of 1973",
                 "Ceylon Broadcasting Corporation Act No. 37 of 1966",
                 "Sri Lanka Broadcasting Corporation (Special Provisions) Act No. 8 of 1996",
-                "Sri Lanka Rupavihini Corporation Act No. 6 of 1986",
+                "Sri Lanka Rupavahini Corporation Act No. 6 of 1986",
                 "The Associated Newspapers of Ceylon, Limited (Special Provisions) Act No. 28 of 1973",
                 "Newspapers Ordinance No. 5 of 1839",
                 "Sri Lanka Foundation Law No. 31 of 1973",
@@ -1825,10 +1854,10 @@
 {
     "ministers": [
         {
-            "name": "Minister of Buddhasasana, Religious and Cultural Affairs, National Integration, Social Security, and Mass Media",
+            "name": "**Minister of Buddhassana, Religious and Cultural Affairs, National Integration, Social Security, and Mass Media**",
             "functions": [
                 "Promotion of national integration and reconciliation and lasting peace in the country and formulation of a policy framework for the said purpose",
-                "Introduction and implementation of programmes for dialogue to establish solidarity and co-existence among communities",
+                "Introduction and implementation of programmes for dialogue to establish solidarity and coexistence among communities",
                 "Implementation of Samurdhi programme",
                 "Identification of persons with special needs and fulfilling their needs",
                 "Reviewing, re-organizing public assistance schemes, and introducing appropriate new reforms",
@@ -1850,10 +1879,10 @@
 {
     "ministers": [
         {
-            "name": "Minister of Buddhassana, Religious and Cultural Affairs, National Integration, Social Security, and Mass Media",
+            "name": "**Minister of Buddhahasana, Religious and Cultural Affairs, National Integration, Social Security, and Mass Media**",
             "functions": [
                 "Taking necessary measures to care for elders, increasing participation of elders in social development activities, and protecting the rights of senior citizens",
-                "Adoption of necessary measures to ensure people�s right to accurate information",
+                "Adoption of necessary measures to ensure people’s right to accurate information",
                 "Government printing and publication activities",
                 "Formulation of strategies to obtain the contribution of the mass media for economic, social and cultural development by developing the knowledge, attitudes and a high sense of appreciation of the people",
                 "Promotion of the application of modern technology for the use of mass media",
@@ -1872,9 +1901,10 @@
 }
 
 {
-    "ministers": [
+    "ministers": 
+    [
         {
-            "name": "**Minister of Buddhassana, Religious and Cultural Affairs, National Integration, Social Security, and Mass Media**",
+            "name": "**Minister of Buddhistsasana, Religious and Cultural Affairs, National Integration, Social Security, and Mass Media**",
             "functions": [
                 "freedom to develop an optimal media policy",
                 "Introducing a code of ethics for media institutions and journalists that aligns with international standards and local social contexts.",
@@ -1884,8 +1914,24 @@
                 "All other subjects that come under the purview of Institutions listed in Column II",
                 "Supervision of all Institutions listed in Column II"
             ],
-            "departments": [],
-            "laws": []
+            "departments": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ],
+            "laws": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
         },
         {
             "name": "**Minister of Transport, Highways, Ports and Civil Aviation**",
@@ -1909,9 +1955,10 @@
 }
 
 {
-    "ministers": [
+    "ministers": 
+    [
         {
-            "name": "**Minister of Transport, Highways, Ports and Civil Aviation**",
+            "name": "Minister of Transport, Highways, Ports and Civil Aviation",
             "functions": [
                 "Statutory Institutions and Public Corporations listed in Column II based on the national policies implemented by the government.",
                 "Provision of public services under the purview of the Ministry in an efficient and people friendly manner.",
@@ -1937,7 +1984,7 @@
                 "Ceylon Shipping Corporation Ltd",
                 "Merchant Shipping Secretariat",
                 "Civil Aviation Authority of Sri Lanka",
-                "Airport and Aviation Services (Sri Lanka) Ltd.",
+                "Airport and Aviation Services (Sri Lanka) Ltd",
                 "Sri Lankan Air Lines Limited and its subsidiaries"
             ],
             "laws": [
@@ -1963,7 +2010,8 @@
 }
 
 {
-    "ministers": [
+    "ministers": 
+    [
         {
             "name": "**Minister of Transport, Highways, Ports and Civil Aviation**",
             "functions": [
@@ -1977,7 +2025,7 @@
                 "Issuance of driving licenses",
                 "Regulation and issuance of guidelines and laws relating to motor traffic",
                 "Launching strategic programmes in order to harness the contribution of the transport sector to minimize emission of greenhouse gases",
-                "Development and Management of Commerical Harbours and expansion of their investment opportunities",
+                "Development and Management of Commercial Harbours and expansion of their investment opportunities",
                 "Development of Container Yards",
                 "Development and administration of port oil installations, light houses and beacons, other than those belonging to Admiralty",
                 "Arbitration of disputes between shipping service providers and users"
@@ -1994,20 +2042,19 @@
             "name": "Minister of Transport, Highways, Ports and Civil Aviation",
             "functions": [
                 "Establishment of rules of competition for shipping services",
-                "Ensuring and facilitating consultative coordination between shipping service providers and users and users",
+                "Ensuring and facilitating consultative coordination between shipping service providers and users",
                 "Receiving wrecks and ocean salvages",
                 "Freight and Shipping Services",
                 "Coastwise passenger traffic",
                 "Ship owing, Operating, Ship Managing, Ship Brokering and Agency Services",
                 "Developing and regulating International and Domestic Airports",
                 "Regulating levy of charges and quality of service delivery by airports",
-                "Entering into agreements with other countries for expansion of international air services and adoption of other requisite measures",
+                "Entering into agreements with other countries for expansion of international air services",
                 "Promotion and regulation of functions relating to use of airports in Sri Lanka by foreign countries",
                 "Expansion of air cargo facilities",
                 "Promotion of domestic air travel",
                 "Regulation of private air services",
                 "Registration of Aircraft",
-                "All other subjects that come under the purview of Institutions listed in Column II",
                 "Supervision of the Institutions listed in Column II"
             ],
             "departments": [],
@@ -2019,7 +2066,7 @@
 {
     "ministers": [
         {
-            "name": "**Minister of Public Security**",
+            "name": "Minister of Public Security",
             "functions": [
                 "Formulation, implementation, monitoring and evaluation of policies, strategies, programmes and projects, in relation to the subject of Public Security and those subjects that come under the purview of Departments, Statutory Institutions and Public Corporations listed in Column II based on the national policies implemented by the government",
                 "Provision of public services under the purview of the Ministry in an efficient and people friendly manner",
@@ -2028,8 +2075,8 @@
                 "Implementation of strategies comprising broad reforms that ensure community discipline",
                 "Adopting measures to prevent and combat various crimes and anti-social activities that have assumed the proportion of a social calamity",
                 "Controlling of vehicular traffic",
-                "Implementing necessary reforms to the police services� performance in ensuring public safety and fostering closer community relations",
-                "Coordinating the affairs of non-governmental organisations within the national policy framework thereby providing opportunities to contribute to the country�s development process"
+                "Implementing necessary reforms to the police services’ performance in ensuring public safety and fostering closer community relations",
+                "Coordinating the affairs of non-governmental organisations within the national policy framework thereby providing opportunities to contribute to the country’s development process"
             ],
             "departments": [
                 "Sri Lanka Police",
@@ -2053,7 +2100,7 @@
                 "Drug Dependent Persons (Treatment and Rehabilitation) Act, No. 54 of 2007",
                 "National Dangerous Drugs Control Board Act No. 11 of 1984",
                 "Online Safety Act No. 9 of 2024",
-                "All other legislations pertaining to the subjects specified in Column I and II, and not specifically brought under the purview of any other Minister."
+                "All other legislations pertaining to the subjects specified in Column I and II, and not specifically brought under the purview of any other Minister"
             ]
         }
     ]
@@ -2117,7 +2164,8 @@
 }
 
 {
-    "ministers": [
+    "ministers": 
+    [
         {
             "name": "Minister of Foreign Affairs",
             "functions": [
@@ -2139,12 +2187,12 @@
 {
     "ministers": [
         {
-            "name": "**Minister of Foreign Affairs**",
+            "name": "Minister of Foreign Affairs",
             "functions": [
                 "Empowerment of foreign Embassies to take necessary initiatives in accordance with the overall foreign policy framework of Sri Lanka while ensuring accountability through regular oversight",
                 "Establishing Sri Lanka Directorate of Cultural Relations under the Ministry of Foreign Affairs for promoting Sri Lankan culture abroad to build 'soft power' and foster mutual understanding",
                 "Restructuring and strengthening of the Diplomatic Training Institute and the Lakshman Kadirgamar Institute of International Relations and Strategic Studies (LKI)",
-                "Establishment of a robust monitoring and reporting mechanism to review and evaluate the performance of Sri Lankan diplomats, on regular basis",
+                "Establishment of a robust monitoring and reporting mechanism to review and evaluate the performance of Sri Lankan diplomats on regular basis",
                 "Establishing a Consultative body with the Sri Lankan diaspora in every country where considerable number of Sri Lankans are present, with a mandate to engage with the respective Sri Lankan foreign mission and the Ministry of Foreign Affairs",
                 "Supervising all Institutions referred to in Column II and matters relating to all subjects assigned to such Institutions",
                 "Supervision of all Institutions listed in Column II"
@@ -2158,7 +2206,7 @@
 {
     "ministers": [
         {
-            "name": "Minister of Environment, Wildlife, Forest Resources, Water Supply, Plantation and Community Infrastructure",
+            "name": "**Minister of Environment, Wildlife, Forest Resources, Water Supply, Plantation and Community Infrastructure**",
             "functions": [
                 "Formulation, implementation, monitoring and evaluation of policies, strategies, programmes and projects, in relation to the subject of Environment, Wildlife, Forest Resources, Water Supply, Plantation and Community Infrastructure, and those subjects that come under the purview of Departments, Statutory Institutions and Public Corporations listed in Column II based on the national policies implemented by the government",
                 "Provision of public services under the purview of the Ministry in efficient and people friendly manner",
@@ -2171,7 +2219,7 @@
             "departments": [
                 "Central Environmental Authority",
                 "Geological Survey and Mines Bureau",
-                "SMB Technical Services (Pvt) Ltd.",
+                "GSMB Technical Services (Pvt) Ltd.",
                 "Sri Lanka Climate Fund (Pvt) Ltd",
                 "Marine Environment Protection Authority",
                 "Department of Coast Conservation and Coastal Resource Management",
@@ -2204,7 +2252,7 @@
                 "National Water Supply and Drainage Board Law No. 2 of 1974",
                 "Water Resources Board Act No. 29 of 1964",
                 "New Villages Development Authority for Plantation Region Act No. 32 of 2018",
-                "Saumyamoorthy Thondaman Memorial Foundation Act No. 19 of 2005",
+                "Saumyamoorthi Thondaman Memorial Foundation Act No. 19 of 2005",
                 "National Institute of Plantation Management Act No. 45 of 1979",
                 "Tea and Rubber Estates (Control of Fragmentation) Act No 2 of 1958",
                 "Sri Lanka Tea Board Law No. 14 of 1975",
@@ -2233,14 +2281,14 @@
                 "Preservation of forest density and expansion of green cover",
                 "Promotion of commercial forestry to meet the demand for timber while preserving the forest density of the country",
                 "Taking necessary measures to provide clean drinking water to all citizens",
-                "Inspecting water supply services, draining systems and sanitary facilities, formulating and implementing new plans for them and maintaining them"
+                "Inspecting water supply services, drainage systems and sanitary facilities, formulating and implementing new plans for them and maintaining them"
             ],
             "departments": [
                 "Department of Rubber Development",
                 "Rubber Research Institute",
                 "Sri Lanka Rubber Manufacturing and Export Corporation",
                 "Tea Shakthi Fund",
-                "Thurusaviya Fund",
+                "Thuruwasiya Fund",
                 "Department of Export Agriculture",
                 "Sri Lanka Cashew Corporation",
                 "Spices and Allied Products Marketing Board",
@@ -2252,9 +2300,9 @@
                 "Kapruka Fund",
                 "Department of Cinnamon Development",
                 "Janatha Estate Development Board",
-                "Kaluboviya Tea Factory Ltd",
+                "Kalubovitiya Tea Factory Ltd",
                 "Sri Lanka State Plantation Corporation",
-                "Elkaduwa Plantation Company Ltd",
+                "Elakdawa Plantation Company Ltd",
                 "Kurunegala Plantation Company Ltd",
                 "Chilaw Plantation Company Ltd",
                 "Hingurana Sugar Industry Ltd.",
@@ -2269,7 +2317,7 @@
                 "Rubber Replanting Subsidy Act No. 36 of 1953",
                 "Rubber Research Ordinance No. 10 of 1930",
                 "Rubber Control Act No. 11 of 1956",
-                "Thurusaviya Fund Act No. 23 of 2000",
+                "Thuruwasiya Fund Act No. 23 of 2000",
                 "Promotion of Export Agriculture Act (No. 46 of 1992)",
                 "Coconut Development Act No. 46 of 1971",
                 "Coconut Research Board Act No. 37 of 1950",
@@ -2285,16 +2333,16 @@
 {
     "ministers": [
         {
-            "name": "Minister of Environment, Wildlife, Forest Resources, Water Supply, Plantation and Community Infrastructure",
+            "name": "**Minister of Environment, Wildlife, Forest Resources, Water Supply, Plantation and Community Infrastructure**",
             "functions": [
                 "Improvement of water security and urban water supply schemes by coordinating rural tanks and reservoirs and irrigation systems.",
-                "Prevention of wastage of water in the drinking water distribution system.",
-                "Taking measures to carry out community water supply projects in an efficient and systematic manner.",
-                "Maintenance and improvement of water supply projects to ensure the supply of safe drinking water for the rural population.",
-                "Stabilizing the drinking water supply in rural areas, developing reservoirs and feeder canals and conserving water.",
-                "Acceleration of water distribution projects associated with water supply projects implemented at rural and regional levels by the national irrigation system.",
-                "Design of new villages and townships aimed at developing housing and infrastructure for the landless employed in government and privately owned plantation companies.",
-                "Increasing international competitiveness for the productivity of the plantation industry sector.",
+                "Prevention of wastage of water in the drinking water distribution system",
+                "Taking measures to carry out community water supply projects in an efficient and systematic manner",
+                "Maintenance and improvement of water supply projects to ensure the supply of safe drinking water for the rural population",
+                "Stabilizing the drinking water supply in rural areas, developing reservoirs and feeder canals and conserving water",
+                "Acceleration of water distribution projects associated with water supply projects implemented at rural and regional levels by the national irrigation system",
+                "Design of new villages and townships aimed at developing housing and infrastructure for the landless employed in government and privately owned plantation companies",
+                "Increasing international competitiveness for the productivity of the plantation industry sector",
                 "Taking necessary steps to foster value added products - related industries based on plantation crops that target the international market."
             ],
             "departments": [],
@@ -2304,8 +2352,7 @@
 }
 
 {
-    "ministers": 
-    [
+    "ministers": [
         {
             "name": "Minister of Environment, Wildlife, Forest Resources, Water Supply, Plantation and Community Infrastructure",
             "functions": [
@@ -2332,7 +2379,7 @@
 {
     "ministers": [
         {
-            "name": "**Minister of Environment, Wildlife, Forest Resources, Water Supply, Plantation and Community Infrastructure**",
+            "name": "Minister of Environment, Wildlife, Forest Resources, Water Supply, Plantation and Community Infrastructure",
             "functions": [
                 "Introduction of high yielding varieties to farmers in collaboration with research institutes",
                 "Expansion of export market opportunities and production of high value items through value addition to local products using modern technology",
@@ -2344,7 +2391,7 @@
                 "Development, promotion and research on coconut, kithul and palmyrah related industries",
                 "Development of strategies to meet the local demand for coconut and to export of value added products of coconut, king coconut and kurumba",
                 "Optimum utilization of plantation lands through multiple cropping and integrated farming, thereby increasing production and employment",
-                "Introduction of high yielding coconut plant varieties"
+                "Introduction of high yielding coconut plant varieties, taking"
             ],
             "departments": [],
             "laws": []
@@ -2353,9 +2400,10 @@
 }
 
 {
-    "ministers": [
+    "ministers": 
+    [
         {
-            "name": "Minister of Environment, Wildlife, Forest Resources, Water Supply, Plantation and Community Infrastructure",
+            "name": "**Minister of Environment, Wildlife, Forest Resources, Water Supply, Plantation and Community Infrastructure**",
             "functions": [
                 "into consideration geographical factors",
                 "Development of technology infused coconut, palmyrah, kithul, sugarcane and related industries targeting the local and foreign markets",
@@ -2374,28 +2422,27 @@
 }
 
 {
-    "ministers": 
-    [
+    "ministers": [
         {
-            "name": "**Minister of Rural and Urban Development, Housing and Construction**",
+            "name": "Minister of Rural and Urban Development, Housing and Construction",
             "functions": [
-                "Formulation, implementation, monitoring and evaluation of policies, strategies, programmes and projects",
+                "Formulation, implementation, monitoring and evaluation of policies, strategies, programmes and projects, in relation to the subjects of Rural and Urban Development, Housing and Construction",
                 "Provision of public services under the purview of the Ministry in an efficient and people friendly manner",
                 "Reforming all systems and procedures using modern management techniques and technology",
                 "Planning and development of metropolis and suburbs",
                 "Systematic promotion and regulation of integrated economic, social and physical development of urban areas",
                 "Construction and development of housing complexes for shanty dwellers and low income groups",
                 "Implementation of new housing projects and provision of credit facilities",
-                "Introducing storied housing schemes on reasonable rental basis"
+                "Introducing storied housing schemes"
             ],
             "departments": [
                 "Urban Development Authority",
                 "Urban Settlement Development Authority",
-                "Selendiva investments Limited",
-                "Hotel Developers (Lanka) PLC (PQ 143)",
+                "Selendiva Investments Limited",
+                "Hotel Developers (Lanka) PLC",
                 "National Physical Planning Department",
-                "Condominium Management Authority (Common Amenities Board)",
-                "Sri Lanka Land Development Corporation and its subsidiaries and related institutions",
+                "Condominium Management Authority",
+                "Sri Lanka Land Development Corporation",
                 "National Housing Development Authority",
                 "Building Material Corporation Limited",
                 "Department of Buildings",
@@ -2410,7 +2457,7 @@
                 "Urban Development Projects (Special Provisions) Act No. 2 of 1980",
                 "Urban Settlement Development Authority Act No. 36 of 2008",
                 "Town and Country Planning Ordinance No. 13 of 1946",
-                "Apartment ownership Act No. 11 of 1973",
+                "Apartment Ownership Act No. 11 of 1973",
                 "Apartment Ownership (Special Provisions) Act No. 23, 2018",
                 "Apartment Ownership (Special Provisions) Act No. 4, 1999",
                 "Common Amenities Board Act No. 10 of 1973",
@@ -2450,9 +2497,10 @@
 }
 
 {
-    "ministers": [
+    "ministers": 
+    [
         {
-            "name": "Minister of Rural and Urban Development, Housing and Construction",
+            "name": "**Minister of Rural and Urban Development, Housing and Construction**",
             "functions": [
                 "income recipients and particular community groups",
                 "Providing guidance to rural communities on environmental friendly and cost effective techniques for housing construction",

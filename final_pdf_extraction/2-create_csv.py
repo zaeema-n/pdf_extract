@@ -1,3 +1,5 @@
+# This file uses OpenAI LLM to convert the json data to a csv file
+
 from openai import OpenAI
 import csv
 
@@ -24,10 +26,6 @@ def query_openai_with_prompt(pdf_text, prompt, client, file_name):
 
 client = OpenAI()
 
-# Extract text from the PDF
-#pdf_text = extract_text_from_pdf("gzt.pdf")
-
-# Example usage with different prompts
 query1 = """
 Convert the provided JSON data into a CSV with two columns: "
 "'Minister' and 'Department'. Each minister and their departments should appear as a separate row. "
@@ -43,9 +41,9 @@ def read_text_file(file_path):
         content = file.read()
     return content
 
-text_content = read_text_file("responses.txt") 
+text_content = read_text_file("int_ministers_department_json.txt") 
 
-query_openai_with_prompt(text_content, query1, client, "responses_csv.txt")
+query_openai_with_prompt(text_content, query1, client, "int_ministers_departments_csv.txt")
 
 def txt_to_csv(txt_file_path, csv_file_path):
     """Convert a .txt file (formatted like CSV) to a .csv file."""
@@ -70,4 +68,4 @@ def txt_to_csv(txt_file_path, csv_file_path):
             # Write the cleaned columns to the .csv file
             csv_writer.writerow(columns)
 
-txt_to_csv("responses_csv.txt", "final_responses.csv")
+txt_to_csv("int_ministers_departments_csv.txt", "ministers_departments.csv")

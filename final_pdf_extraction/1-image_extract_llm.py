@@ -1,3 +1,6 @@
+# This script is used to extract the text from the images in the folder 'gzt_images' using OpenAI LLM
+# and save the extracted text in a text file 'int_ministers_department_json.txt' in json format.
+
 import base64
 import os
 from openai import OpenAI
@@ -44,7 +47,6 @@ def process_all_images(image_folder_path, queries):
     )
 
     # Process each image in the sorted order
-    # Process each image in the sorted order
     results = {}
     for image_filename in image_filenames:
         print(f"Processing file: {image_filename}\n")  # Print the current file being processed
@@ -53,7 +55,6 @@ def process_all_images(image_folder_path, queries):
 
 # Main logic to define queries and call processing functions
 if __name__ == "__main__":
-    # Define the folder containing images
 
     #! Now return as a json object
     image_folder_path = "gzt_images"
@@ -99,7 +100,7 @@ if __name__ == "__main__":
         """
     ]
 
-    with open('responses.txt', 'a') as file:
+    with open('int_ministers_department_json.txt', 'w', encoding='utf-8') as file:
         # Process all images with the specified queries
         results = process_all_images(image_folder_path, queries)
 
